@@ -1,0 +1,48 @@
+= Test Automation: Python API Learning Path
+:author: Benjamin
+:email:  benjamin@hidreamz.com
+:revnumber: 0.1
+:revdate:   May, 26 2022
+:doctype: book
+:toc:
+:icons: font
+:data-uri:
+:lang: en
+:language: javadocript
+
+[preface]
+include::chapters/about.adoc[]
+include::chapters/preface.adoc[]
+
+
+// include::chapters/introduction.adoc[]
+
+= Test Automation Course by Test Automation University (TAU)
+
+include::chapters/foundation.adoc[]
+// include::chapters/childhood.adoc[]
+
+// include::chapters/conversion.adoc[]
+
+// include::chapters/journey_to_india.adoc[]
+
+// include::chapters/to_malabar[]
+
+// == Second Part
+
+// include::chapters/chapter3.adoc[]
+
+// [colophon]
+// include::chapters/colophon.adoc[]
+
+// include::chapters/bibliography.adoc[]
+
+// [appendix]
+// include::chapters/appendix.adoc[]
+
+ifdef::backend-docbook[]
+[index]
+Index
+-----
+endif::backend-docbook[]
+
