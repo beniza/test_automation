@@ -1,0 +1,13 @@
+= Test automation course - Study notes
+
+This book contains my notes from taking the course freely offered by https://testautomationu.applitools.com/[Test Automation University, role=external, window=_blank]. The information captured in here is for my future reference only.
+
+== Disclaimer
+
+I don't own the information in this document, although they are my personal notes. I'm thankful to the good people at TAU for providing such a wonderful course for absolutely free. This course enables one in setting up a system that support test automation, which in turn lead to confident software delivery.
+
+== Learning Paths
+
+The site offeres several learning paths. I've chosen the API testing in Python for learning test automation. I've chosen this path as I'm already familiar with developing APIs in python and also I do it time to time. 
+
+I currently have a project at hand where I can implement/try out the learnings from this course to see how it helps in my software development journey.
