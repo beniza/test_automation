@@ -1,0 +1,16 @@
+This course is about how to do test automation correctly. It is important for us to rememeber that any successful outome is a result of the clarity in thoughts about the process that produces the outcome.
+
+[quote, Angie Jones, Test Automation University]
+____
+NOTE: Many companies begin their test automation journey with proof of concepts, as opposed to with strategy. This often leads to failed test automation initiatives that do not meet expectations. 
+____
+
+In this course, we will explore the initial considerations for starting a new test automation initiative including:
+
+* how to develop a test automation strategy that meets your business needs
+* how to cultivate a culture within your organization that is conducive to the success of your test automation initiative
+* techniques that application developers can employ to support test automation
+* how to choose the right tools for your test automation initiative
+* early considerations that should be made to better prepare you for the future of your test automation project
+* how to optimize and scale your automation project for your business needs
+* how to quantify the return on your investment and share the value of your test automation with your organization.
