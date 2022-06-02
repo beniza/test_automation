@@ -4,6 +4,7 @@ Test automation course — Study notes
 - My notes from this course are collected and organized as a source file for an eBook (html, pdf, ebook).
 - Uses [asciidoctor](http://asciidoctor.org) to make the book.
 - See `master.adoc`
+- Based on https://github.com/vysakh0/asciidoctor-book-template[asciidoctor-book-template] by `vysakh0`. Thanks buddy!
 
 
 Installation
