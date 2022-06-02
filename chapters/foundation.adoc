@@ -1,0 +1,12 @@
+== Setting a foundation for successful TEST AUTOMATION
+
+This course will deal with the initial consideration for starting a new test automation. It will help you in setting up a strategy for test automation that meets your business needs, how to cultivate a culture in your organization that's condusive to the success of your test automation initiative.
+
+It also covers some of the techniques that the application developers can employ to support test automation. How to choose the right tools for your test automation initiative. Early considerations that should be made to prepare you for a better future of your test automation project, how to optmize and scale your automation projects for your business needs.
+
+Finally, it will also help you assess your RoI (Return of Investments) by qualifying it and share the value of your test automation with your organization. 
+
+=== Designing a test automation strategy
+
+Once implemented correctly, test automation can greatly help a development team and stakeholders in trusting the quality of the code being added to the project. However several teams fails to succssfully implement the test automation. This chapter gives the fundamentals of setting up a good test automation. It also gives us warnings about certain pitfalls that can lead to a failed implementation of the same.
+
