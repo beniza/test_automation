@@ -11,8 +11,8 @@ Installation
 ------------
 
 ```bash
-git clone git://github.com/vysakh0/asciidoctor-book-template.git
-cd asciidoctor-book-template
+git clone https://github.com/beniza/test_automation.git
+cd test_automation
 bundle
 rake
 ```
